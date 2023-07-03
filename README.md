@@ -1,2 +1,2 @@
 # SoftUni-Courses
-Course from my education @SoftUni.
+Solved tasks in Fundamentals-Course.
